@@ -1,16 +1,19 @@
-# message_board_app
+# 📱 Message Board App  
+A simple Flutter application that allows users to register, log in, and post messages on a shared message board.  
+Built for learning Firebase authentication, database usage, and basic Flutter navigation.
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+### 🔐 Authentication  
+- User registration  
+- Login / Logout  
+- Firebase Authentication integration  
 
-A few resources to get you started if this is your first Flutter project:
+### 💬 Message Board  
+- Post messages  
+- View all messages in real time  
+- User-specific profile  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ⚙️ App Structure  
